@@ -1,6 +1,4 @@
-package Module1_LambdaExpressions.exercise4;
-
-import Module1_LambdaExpressions.exercise3.Calculator;
+package module1_lambda_expressions.exercise4;
 
 //Ejercicio 4 - Expresiones Lambda ambigüedades
 public class LambdaTest4 {

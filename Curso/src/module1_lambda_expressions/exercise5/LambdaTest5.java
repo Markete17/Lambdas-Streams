@@ -1,6 +1,6 @@
-package Module1_LambdaExpressions.exercise5;
+package module1_lambda_expressions.exercise5;
 
-import Module1_LambdaExpressions.exercise4.CalculatorLong;
+import module1_lambda_expressions.exercise4.CalculatorLong;
 
 // en este ejercicio, se explica como crear una interfaz funcional a través de un método
 public class LambdaTest5 {

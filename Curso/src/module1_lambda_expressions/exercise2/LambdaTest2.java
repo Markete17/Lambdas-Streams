@@ -1,4 +1,4 @@
-package Module1_LambdaExpressions.exercise2;
+package module1_lambda_expressions.exercise2;
 
 //Ejercicio 2 - Expresiones Lambda con parámetros
 public class LambdaTest2 {

@@ -1,4 +1,4 @@
-package Module1_LambdaExpressions.exercise3;
+package module1_lambda_expressions.exercise3;
 
 //Ejercicio 3 - Expresiones Lambda con devolucion
 public class LambdaTest3 {

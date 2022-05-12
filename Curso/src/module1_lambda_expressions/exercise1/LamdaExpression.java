@@ -1,4 +1,4 @@
-package Module1_LambdaExpressions.exercise1;
+package module1_lambda_expressions.exercise1;
 
 //Teoria
 public class LamdaExpression {
